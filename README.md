@@ -1,7 +1,7 @@
 # cpp_conditionals
 Conditional exercises for C++
 
-Exercise 1. Basing on the knowledge about conditional statements, once again modify the exercise from the lecture about logical and relational operators. Write a program that asks the user to input three integer numbers. The first two should represent the minimum and maximum value of the interval respectively. Then the program should check if the third number is contained within the interval. The user should be informed if the number belongs or if it doesn't belong to the interval.
+Exercise 1. Write a program that asks the user to input three integer numbers. The first two should represent the minimum and maximum value of the interval respectively. Then the program should check if the third number is contained within the interval. The user should be informed if the number belongs or if it doesn't belong to the interval.
 
 Exercise 2. Modify the Exercise 1 in order to prevent a situation where maximum value inputted is lower than the minimum value. The user should see an error. And the program should stop.
 
