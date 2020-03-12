@@ -1,4 +1,4 @@
-# cpp_conditionals
+# cpp_conditionals (completed)
 Conditional exercises for C++
 
 Exercise 1. Write a program immitating a vending machine. The program should present the user  with a choice of 6 products of your choice (Coke, Water, Chocolate Bar etc). Then allow the user to choose a product by entering a number 1-6. Add an exception for invalid input if the user inputs a number which doesn't correspond to any choice.
